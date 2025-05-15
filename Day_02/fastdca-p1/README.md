@@ -3,8 +3,12 @@
 This is a basic FastAPI project demonstrating how to create and run a simple API using FastAPI, Uvicorn, and `uv` package manager. This guide walks you through setting up your environment, creating your first API route, and running the server in development mode.
 
 ---
-You can also read my blog on medium about fastapi:
-Blog: [FastApi Blog on Medium]("https://medium.com/@areebazafar715/api-fastapi-with-uvicorn-the-future-of-python-web-development-3ca67a5f54c1")
+## 📖 Read My Blog on FastAPI
+
+If you're interested in learning more about FastAPI and how to use it with Uvicorn, check out my detailed blog on Medium:
+
+👉 [FastAPI Blog on Medium](https://medium.com/@areebazafar715/api-fastapi-with-uvicorn-the-future-of-python-web-development-3ca67a5f54c1)
+
 
 ## 🚀 Step 1: Project Setup with `uv`
 
