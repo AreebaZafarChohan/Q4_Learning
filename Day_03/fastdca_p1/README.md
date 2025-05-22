@@ -24,6 +24,7 @@ A FastAPI-based chatbot API developed by Areeba Zafar, showcasing Pydantic data 
   - **pydantic_example_2.py # Nested models with email validation**
   - **pydantic_example_3.py # Custom field validators**
 
+
 ## API Endpoints (main.py)
 
 ### Base URL
