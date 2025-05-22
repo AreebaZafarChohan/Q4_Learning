@@ -17,12 +17,12 @@ A FastAPI-based chatbot API developed by Areeba Zafar, showcasing Pydantic data 
   - Email validation
   - Error handling patterns
 
-## Project Structure
 
- **● main.py # FastAPI application with chatbot endpoints**
- **● pydantic_example_1.py # Basic Pydantic model usage**
- **● pydantic_example_2.py # Nested models with email validation**
- **● pydantic_example_3.py # Custom field validators**
+## Project Structure
+  - **main.py # FastAPI application with chatbot endpoints**
+  - **pydantic_example_1.py # Basic Pydantic model usage**
+  - **pydantic_example_2.py # Nested models with email validation**
+  - **pydantic_example_3.py # Custom field validators**
 
 ## API Endpoints (main.py)
 
