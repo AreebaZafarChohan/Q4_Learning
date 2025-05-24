@@ -61,6 +61,8 @@ Returns the list of all products added.
 ]
 ```
 
+---
+
 ### 🔷 Path Parameters
 
 **GET /items/{item_id}**
@@ -77,6 +79,9 @@ GET /items/5
 ```json
 { "item_id": 5 }
 ```
+
+---
+
 ### 🔷 Query Parameters
 
 **GET /products/product**
@@ -102,6 +107,8 @@ GET /products/product
   "stock": 20
 }
 ```
+
+---
 
 ### 📦 Request Body (Pydantic Model)
 
@@ -133,6 +140,8 @@ Add a product via a JSON body.
 }
 ```
 
+---
+
 ### 🧾 Headers
 
 **GET /headers/**
@@ -150,6 +159,8 @@ User-Agent: Mozilla/5.0
 { "user_Agent": "Mozilla/5.0" }
 ```
 
+---
+
 ### 🍪 Cookies
 
 **GET /cookies/**
@@ -166,6 +177,8 @@ session_id=12345
 ```json
 { "session_id": "12345" }
 ```
+
+---
 
 ### 📝 Form Data
 
@@ -188,6 +201,8 @@ password=secret123
 }
 ```
 
+---
+
 ### 📁 File Upload
 
 **POST /upload/**
@@ -205,6 +220,8 @@ Use Postman or cURL to send a file.
   "size": 120
 }
 ```
+
+---
 
 ### 🔄 Combined Parameters
 
