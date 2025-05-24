@@ -82,7 +82,7 @@ GET /items/5
 **GET /products/product**
 Accepts query parameters with validations.
 
-### 🧪 Example Request:
+#### 🧪 Example Request:
 
 ```bash
 GET /products/product?q=Hairpins&price=100&stock=20
@@ -103,7 +103,7 @@ GET /products/product
 }
 ```
 
-#### 📦 Request Body (Pydantic Model)
+### 📦 Request Body (Pydantic Model)
 
 **POST /products/add**
 Add a product via a JSON body.
@@ -133,7 +133,7 @@ Add a product via a JSON body.
 }
 ```
 
-#### 🧾 Headers
+### 🧾 Headers
 
 **GET /headers/**
 Send User-Agent header.
@@ -150,7 +150,7 @@ User-Agent: Mozilla/5.0
 { "user_Agent": "Mozilla/5.0" }
 ```
 
-#### 🍪 Cookies
+### 🍪 Cookies
 
 **GET /cookies/**
 Send a cookie named session_id.
@@ -167,7 +167,7 @@ session_id=12345
 { "session_id": "12345" }
 ```
 
-#### 📝 Form Data
+### 📝 Form Data
 
 **POST /login/**
 Submit login credentials using a form.
@@ -188,7 +188,7 @@ password=secret123
 }
 ```
 
-#### 📁 File Upload
+### 📁 File Upload
 
 **POST /upload/**
 Upload a file using form-data.
@@ -206,7 +206,7 @@ Use Postman or cURL to send a file.
 }
 ```
 
-#### 🔄 Combined Parameters
+### 🔄 Combined Parameters
 
 **PUT /product/validate/{product_id}**
 Combines path, query, and body parameters.
