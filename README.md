@@ -17,6 +17,9 @@ Q4-Learning/
 ├── Day_04/ # FastAPI Parameters — All-in-One Request Types
 ├── Day_05/ # FastAPI Dependency Injection
 ├── Day_06/ # FastAPI Dependency Injection
+├── Day_07/ # Reaserch on Agents and Runner
+├── Day_08/ # Reaserch on What is LLM
+├── Day_09/ # Understanding Tool Calling / Function Calling
 └── LICENSE # MIT License (Free to use)
 
 ---
