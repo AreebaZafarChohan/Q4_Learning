@@ -1,4 +1,4 @@
-# 🪙 CryptoDataAgent
+# 🤖 CryptoDataAgent
 
 A simple OpenAI Agent powered by Gemini API that fetches **live market prices** of cryptocurrencies using the **Binance API**.
 
