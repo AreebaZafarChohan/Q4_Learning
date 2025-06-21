@@ -20,6 +20,7 @@ Q4-Learning/
 - ├── Day_07/ # Reaserch on Agents and Runner
 - ├── Day_08/ # Reaserch on What is LLM
 - ├── Day_09/ # Understanding Tool Calling / Function Calling
+- ├── Day_10/ # CryptoDataAgent
 - └── LICENSE # MIT License (Free to use)
 
 ---
