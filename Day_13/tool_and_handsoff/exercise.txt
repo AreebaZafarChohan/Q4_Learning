@@ -1,0 +1,14 @@
+Exercise for you All
+result = Runner.run_sync(
+    agent,
+    """ 
+        1. What is my current location?
+        3. Any breaking news?
+        2. What is photosynthesis
+    """,
+    run_config=config
+)
+print('='*50)
+print("Result: ",result.last_agent.name)
+rich.print(result.new_items)
+print("Result: ",result.final_output)
