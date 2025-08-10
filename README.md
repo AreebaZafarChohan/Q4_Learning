@@ -22,6 +22,10 @@ Q4-Learning/
 - ├── Day_09/ # Understanding Tool Calling / Function Calling
 - ├── Day_10/ # CryptoDataAgent
 - ├── Day_11/ # Prompt Exercise Agent System
+- ├── Day_12/ # Poetry Agent
+- ├── Day_13/ # Tools and Handsoff
+- ├── Day_14/ # Agent with Tracing and Logs
+- ├── Day_15/ # Input Guadrails
 - └── LICENSE # MIT License (Free to use)
 
 ---
