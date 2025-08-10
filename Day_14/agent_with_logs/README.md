@@ -26,9 +26,9 @@ This project demonstrates how to use **two tools** and **two handoffs** in a sin
 
 ## ▶️ How to Run
 1. Install dependencies:
-   ```bash
-   uv add openai-agents python-dotenv
-   ```
+```bash
+uv add openai-agents python-dotenv
+```
 
 2. Add your OpenAI API key to .env:
 
@@ -70,3 +70,4 @@ Input prompt:
 
 
 **Created by:** *Areeba Zafar ✨*
+
