@@ -25,7 +25,6 @@ The `InputGuardrailTripwireTriggered` exception should be called, and the messag
 ## 📂 Project Structure
 
 Day_15/
-- │
 - ├── main.py # Main program with Teacher & Management agents
 - ├── config.py # Configuration for Gemini API & RunConfig
 - ├── .env # Environment variables
@@ -44,7 +43,7 @@ Day_15/
 
 ### 1. Clone the repository
 ```bash
-git clone <https://github.com/AreebaZafarChohan/Q4_Learning/Day_15/guadrails/>
+git clone https://github.com/AreebaZafarChohan/Q4_Learning/Day_15/guadrails/
 cd Day_15
 ```
 
@@ -145,7 +144,7 @@ Implements:
 ## 📸 Tracing Screenshot
 Below is a tracing view showing the guardrail trigger for Tuesday slot request:
 
-![Tracing Screenshot](/screenshots/input_guardrail_tripwire.png)
+![Tracing Screenshot](screenshots/input_guardrail_tripwire.png)
 
 ## 📜 License
 This project is for **educational purposes** only.
@@ -153,3 +152,4 @@ This project is for **educational purposes** only.
 ---
 
 **👩‍💻 Developed by:** *Areeba Zafar*
+
