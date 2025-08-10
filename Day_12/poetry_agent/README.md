@@ -38,8 +38,9 @@ uv run main.py
 
 ## 📌 Features
 
-**🎯 Accurate classification of poetry type.**
-**🧠 Detailed thematic and stylistic analysis.**
-**🎨 Rich console UI with color-coded panels.**
+- **🎯 Accurate classification of poetry type.**
+- **🧠 Detailed thematic and stylistic analysis.**
+- **🎨 Rich console UI with color-coded panels.**
+
 
 **👨‍💻 Developed by** *Areeba Zafar*
