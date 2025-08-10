@@ -25,7 +25,9 @@ This project demonstrates how to use **two tools** and **two handoffs** in a sin
   - RunConfig setup
 
 ## ▶️ How to Run
+
 1. Install dependencies:
+
 ```bash
 uv add openai-agents python-dotenv
 ```
@@ -36,7 +38,7 @@ uv add openai-agents python-dotenv
 OPENAI_API_KEY=your_api_key_here
 ```
 
-3> Run the script:
+3. Run the script:
 
 ```bash
 python main.py
@@ -70,4 +72,5 @@ Input prompt:
 
 
 **Created by:** *Areeba Zafar ✨*
+
 
